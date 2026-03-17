@@ -1,0 +1,13 @@
+.idea/
+nbproject/
+*.iml
+
+# Build output
+target/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Database credentials - NEVER commit this
+src/main/resources/db.properties
